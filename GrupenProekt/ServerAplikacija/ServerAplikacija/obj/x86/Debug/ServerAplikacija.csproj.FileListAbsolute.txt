@@ -1,0 +1,36 @@
+c:\users\aleksandarg.akademija\documents\visual studio 2010\Projects\ServerAplikacija\ServerAplikacija\bin\Debug\ServerAplikacija.exe
+c:\users\aleksandarg.akademija\documents\visual studio 2010\Projects\ServerAplikacija\ServerAplikacija\bin\Debug\ServerAplikacija.pdb
+c:\users\aleksandarg.akademija\documents\visual studio 2010\Projects\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.Form1.resources
+c:\users\aleksandarg.akademija\documents\visual studio 2010\Projects\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.Properties.Resources.resources
+c:\users\aleksandarg.akademija\documents\visual studio 2010\Projects\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.csproj.GenerateResource.Cache
+c:\users\aleksandarg.akademija\documents\visual studio 2010\Projects\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.exe
+c:\users\aleksandarg.akademija\documents\visual studio 2010\Projects\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.pdb
+C:\Users\aleksandarg.AKADEMIJA\Documents\Visual Studio 2010\Projects\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.csprojResolveAssemblyReference.cache
+D:\Petar\Mikrosam Proekt\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.pdb
+C:\Users\aleksandarg.AKADEMIJA\Desktop\Tim3\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.pdb
+C:\Users\aleksandarg.AKADEMIJA\Desktop\Tim3\ServerAplikacija\ServerAplikacija\bin\Debug\ServerAplikacija.exe
+C:\Users\aleksandarg.AKADEMIJA\Desktop\Tim3\ServerAplikacija\ServerAplikacija\bin\Debug\ServerAplikacija.pdb
+C:\Users\aleksandarg.AKADEMIJA\Desktop\Tim3\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.csprojResolveAssemblyReference.cache
+C:\Users\aleksandarg.AKADEMIJA\Desktop\Tim3\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.Form1.resources
+C:\Users\aleksandarg.AKADEMIJA\Desktop\Tim3\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.Properties.Resources.resources
+C:\Users\aleksandarg.AKADEMIJA\Desktop\Tim3\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.csproj.GenerateResource.Cache
+C:\Users\aleksandarg.AKADEMIJA\Desktop\Tim3\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.exe
+<<<<<<< HEAD
+C:\Users\Petar\Documents\GitHub\Tim3\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.exe
+C:\Users\Petar\Documents\GitHub\Tim3\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.pdb
+=======
+>>>>>>> 75b565d05c4bc26f5fdb6156969c18e39f25d0f9
+\\server\drop\Sesija_22_08.10.2020\Tim3\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.exe
+\\server\drop\Sesija_22_08.10.2020\Tim3\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.pdb
+\\server\drop\Sesija_22_08.10.2020\Tim3\ServerAplikacija\ServerAplikacija\bin\Debug\ServerAplikacija.exe
+\\server\drop\Sesija_22_08.10.2020\Tim3\ServerAplikacija\ServerAplikacija\bin\Debug\ServerAplikacija.pdb
+\\server\drop\Sesija_22_08.10.2020\Tim3\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.csprojResolveAssemblyReference.cache
+\\server\drop\Sesija_22_08.10.2020\Tim3\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.Form1.resources
+\\server\drop\Sesija_22_08.10.2020\Tim3\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.Properties.Resources.resources
+\\server\drop\Sesija_22_08.10.2020\Tim3\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.csproj.GenerateResource.Cache
+C:\Users\Petar\Documents\GitHub\Tim3\ServerAplikacija\ServerAplikacija\bin\Debug\ServerAplikacija.exe
+C:\Users\Petar\Documents\GitHub\Tim3\ServerAplikacija\ServerAplikacija\bin\Debug\ServerAplikacija.pdb
+C:\Users\Petar\Documents\GitHub\Tim3\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.csprojResolveAssemblyReference.cache
+C:\Users\Petar\Documents\GitHub\Tim3\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.Form1.resources
+C:\Users\Petar\Documents\GitHub\Tim3\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.Properties.Resources.resources
+C:\Users\Petar\Documents\GitHub\Tim3\ServerAplikacija\ServerAplikacija\obj\x86\Debug\ServerAplikacija.csproj.GenerateResource.Cache
