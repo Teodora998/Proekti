@@ -1,0 +1,46 @@
+c:\users\petar\documents\visual studio 2013\Projects\ServerProekt\ServerProekt\bin\Debug\ServerProekt.exe.config
+c:\users\petar\documents\visual studio 2013\Projects\ServerProekt\ServerProekt\bin\Debug\ServerProekt.exe
+c:\users\petar\documents\visual studio 2013\Projects\ServerProekt\ServerProekt\bin\Debug\ServerProekt.pdb
+c:\users\petar\documents\visual studio 2013\Projects\ServerProekt\ServerProekt\obj\Debug\ServerProekt.exe
+c:\users\petar\documents\visual studio 2013\Projects\ServerProekt\ServerProekt\obj\Debug\ServerProekt.pdb
+c:\users\petar\documents\visual studio 2013\Projects\ServerProekt\ServerProekt\obj\Debug\ServerProekt.csprojResolveAssemblyReference.cache
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\ServerProekt\ServerProekt\bin\Debug\ServerProekt.exe.config
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\ServerProekt\ServerProekt\obj\Debug\ServerProekt.exe
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\ServerProekt\ServerProekt\obj\Debug\ServerProekt.pdb
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\ServerProekt\ServerProekt\bin\Debug\ServerProekt.exe
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\ServerProekt\ServerProekt\bin\Debug\ServerProekt.pdb
+C:\Users\teodorach\Desktop\Proekt Tim3\Proekt-Draft\ServerProekt\ServerProekt\obj\Debug\ServerProekt.csprojResolveAssemblyReference.cache
+D:\Petar\Mikrosam Proekt\ServerProekt\ServerProekt\bin\Debug\ServerProekt.exe.config
+D:\Petar\Mikrosam Proekt\ServerProekt\ServerProekt\obj\Debug\ServerProekt.pdb
+D:\Petar\Mikrosam Proekt\ServerProekt\ServerProekt\bin\Debug\ServerProekt.exe
+D:\Petar\Mikrosam Proekt\ServerProekt\ServerProekt\bin\Debug\ServerProekt.pdb
+D:\Petar\Mikrosam Proekt\ServerProekt\ServerProekt\obj\Debug\ServerProekt.csprojResolveAssemblyReference.cache
+D:\Petar\Mikrosam Proekt\ServerProekt\ServerProekt\obj\Debug\ServerProekt.exe
+C:\Users\Petar\Documents\GitHub\Tim3\ServerProekt\ServerProekt\bin\Debug\ServerProekt.exe.config
+C:\Users\Petar\Documents\GitHub\Tim3\ServerProekt\ServerProekt\obj\Debug\ServerProekt.exe
+C:\Users\Petar\Documents\GitHub\Tim3\ServerProekt\ServerProekt\obj\Debug\ServerProekt.pdb
+C:\Users\aleksandarg.AKADEMIJA\Desktop\Tim3\ServerProekt\ServerProekt\bin\Debug\ServerProekt.exe.config
+C:\Users\aleksandarg.AKADEMIJA\Desktop\Tim3\ServerProekt\ServerProekt\obj\Debug\ServerProekt.exe
+C:\Users\aleksandarg.AKADEMIJA\Desktop\Tim3\ServerProekt\ServerProekt\obj\Debug\ServerProekt.pdb
+C:\Users\aleksandarg.AKADEMIJA\Desktop\Tim3\ServerProekt\ServerProekt\bin\Debug\ServerProekt.exe
+C:\Users\aleksandarg.AKADEMIJA\Desktop\Tim3\ServerProekt\ServerProekt\bin\Debug\ServerProekt.pdb
+C:\Users\aleksandarg.AKADEMIJA\Desktop\Tim3\ServerProekt\ServerProekt\obj\Debug\ServerProekt.csprojResolveAssemblyReference.cache
+<<<<<<< HEAD
+C:\Users\Petar\Documents\GitHub\Tim3\ServerProekt\ServerProekt\bin\Debug\ServerProekt.exe
+C:\Users\Petar\Documents\GitHub\Tim3\ServerProekt\ServerProekt\bin\Debug\ServerProekt.pdb
+C:\Users\Petar\Documents\GitHub\Tim3\ServerProekt\ServerProekt\obj\Debug\ServerProekt.csprojResolveAssemblyReference.cache
+=======
+>>>>>>> 75b565d05c4bc26f5fdb6156969c18e39f25d0f9
+C:\Users\Petar\Desktop\Tim3\ServerProekt\ServerProekt\bin\Debug\ServerProekt.exe.config
+C:\Users\Petar\Desktop\Tim3\ServerProekt\ServerProekt\obj\Debug\ServerProekt.exe
+C:\Users\Petar\Desktop\Tim3\ServerProekt\ServerProekt\obj\Debug\ServerProekt.pdb
+C:\Users\Petar\Desktop\Tim3\ServerProekt\ServerProekt\bin\Debug\ServerProekt.exe
+C:\Users\Petar\Desktop\Tim3\ServerProekt\ServerProekt\bin\Debug\ServerProekt.pdb
+C:\Users\Petar\Desktop\Tim3\ServerProekt\ServerProekt\obj\Debug\ServerProekt.csprojResolveAssemblyReference.cache
+C:\Users\Pc\OneDrive\Desktop\Tim3-main (2)\Tim3-main\ServerProekt\ServerProekt\bin\Debug\ServerProekt.exe.config
+C:\Users\Pc\OneDrive\Desktop\Tim3-main (2)\Tim3-main\ServerProekt\ServerProekt\bin\Debug\ServerProekt.exe
+C:\Users\Pc\OneDrive\Desktop\Tim3-main (2)\Tim3-main\ServerProekt\ServerProekt\bin\Debug\ServerProekt.pdb
+C:\Users\Pc\OneDrive\Desktop\Tim3-main (2)\Tim3-main\ServerProekt\ServerProekt\obj\Debug\ServerProekt.csproj.AssemblyReference.cache
+C:\Users\Pc\OneDrive\Desktop\Tim3-main (2)\Tim3-main\ServerProekt\ServerProekt\obj\Debug\ServerProekt.csproj.CoreCompileInputs.cache
+C:\Users\Pc\OneDrive\Desktop\Tim3-main (2)\Tim3-main\ServerProekt\ServerProekt\obj\Debug\ServerProekt.exe
+C:\Users\Pc\OneDrive\Desktop\Tim3-main (2)\Tim3-main\ServerProekt\ServerProekt\obj\Debug\ServerProekt.pdb
